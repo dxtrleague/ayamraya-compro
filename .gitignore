@@ -1,1 +1,13 @@
+# Generator output (commented out - docs folder should be committed for GitHub Pages)
+# docs/
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
